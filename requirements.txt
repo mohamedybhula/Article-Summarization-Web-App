@@ -2,5 +2,5 @@ streamlit
 transformers[sentencepiece]
 pandas
 numpy
-nespaper3k
+newspaper3k
 re
