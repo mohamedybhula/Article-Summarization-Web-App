@@ -1,1 +1,2 @@
 This repository contains all of the code I used to create the football article summarization web application. There is a file demonstrating how I created the dataset, how I trained the model and one for creating the application in Streamlit.
+At the moment, the application can only be run from my local device, as I would need to purchase a cloud storage system, such as Azure or AWS to store the pytorch_model.bin file, which cannot be uploaded onto GitHub, even using Git Large File Storage, as it exceeds 2GB. 
